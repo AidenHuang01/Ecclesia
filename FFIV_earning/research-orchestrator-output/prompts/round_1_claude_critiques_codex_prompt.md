@@ -1,0 +1,1169 @@
+        You are participating in a structured multi-agent research process.
+
+        Topic:
+        # Research Topic: FFIV Earnings Event Risk and Pre-Earnings Position Decision
+
+## Objective
+
+Evaluate whether the investor should reduce, hold, hedge, or do nothing with the current FFIV position **before the upcoming earnings release**.
+
+This is an **event-driven trading decision**, not a long-term investment analysis.
+
+The goal is to determine:
+
+👉 What EXACT action should be taken **tomorrow morning before earnings**
+
+---
+
+## Current Situation
+
+Time context:
+
+- Current time: April 27, 2026 (evening)
+- Earnings: April 28, 2026 (after market close)
+- Decision window: next trading day (pre-earnings)
+
+Current position:
+
+- FFIV shares: 100
+- Price: ~$381
+- Position value: ~$38,108
+- Portfolio weight: ~32%+
+
+Upcoming event:
+
+- Vesting: ~30 shares on May 1, 2026
+- Post-vest shares: ~130
+- Post-vest exposure: ~$49K+
+- Potential portfolio weight: ~40%+
+
+---
+
+## Employee Trading Assumption
+
+The investor is a lower-level FFIV employee and states:
+
+- No insider trading restrictions
+- No blackout limitations
+- No pre-clearance requirements
+
+For this analysis:
+
+- Assume trading is allowed
+- Do NOT use compliance as a reason to avoid giving a recommendation
+- Mention compliance briefly if needed, but it must NOT affect the decision
+
+👉 Focus on financial and risk decision only
+
+---
+
+## Core Question
+
+What should the investor do **before earnings tomorrow**?
+
+The agents must choose ONE primary action:
+
+- Sell some shares
+- Sell a large portion
+- Hold full position
+- Wait until after earnings
+- Hedge using options
+- Do nothing (must justify)
+
+---
+
+## Required Research Areas
+
+### 1. Current Price Setup
+
+Analyze:
+
+- 1-day / 1-week / 1-month / 3-month movement
+- Pre-earnings run-up or not
+- Relative strength vs market
+- Market sentiment
+
+| Metric | Finding | Interpretation |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**Is optimism already priced in?**
+
+---
+
+### 2. Historical Earnings Reaction
+
+Analyze last 6–8 earnings:
+
+| Date | EPS | Revenue | Guidance | Next-Day Move | Interpretation |
+|---|---|---|---|---|---|
+
+👉 Forced conclusion:
+
+- Typical move size:
+  - Large (>10%)
+  - Medium (5–10%)
+  - Small (<5%)
+
+---
+
+### 3. Options Market (Critical)
+
+Analyze:
+
+- ATM straddle implied move
+- IV level
+- Put/call skew
+- Volume positioning
+
+| Indicator | Finding | Interpretation |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**Market-implied move = X%**
+
+---
+
+### 4. Expectations vs Risk
+
+Analyze:
+
+- Analyst expectations
+- Upgrades/downgrades
+- Expectation level
+
+| Item | Conclusion | Risk |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**High / Neutral / Low expectations**
+
+---
+
+### 5. Key Earnings Driver
+
+Identify ONE key variable:
+
+| Driver | Bullish Signal | Bearish Signal |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**What determines stock direction?**
+
+---
+
+### 6. Scenario Analysis (Must Quantify)
+
+| Scenario | Probability | Stock Move | Impact (100 shares) | Impact (130 shares) |
+|---|---|---|---|---|
+| Strong beat | | | | |
+| Small beat | | | | |
+| Neutral | | | | |
+| Miss | | | | |
+| Bad guide | | | | |
+
+Must include:
+
+- -10%
+- -15%
+- -20%
+
+---
+
+### 7. Concentration + Vest Risk (Core)
+
+| Case | Shares | Value | Weight |
+|---|---|---|---|
+| Current | 100 | ~$38K | ~32% |
+| Post-vest | 130 | ~$49K | ~40% |
+
+👉 Forced conclusion:
+
+**Is holding 100 shares through earnings rational?**
+
+---
+
+### 8. Pre-Earnings Action Options
+
+| Action | Pros | Cons | Best Case | Worst Case |
+|---|---|---|---|---|
+| Hold all | | | | |
+| Sell 10–20 | | | | |
+| Sell 25–40 | | | | |
+| Sell 50+ | | | | |
+| Hedge (puts) | | | | |
+| Wait after earnings | | | | |
+
+👉 Must select:
+
+- Primary action
+- Backup action
+
+---
+
+## Mandatory Trading Recommendation
+
+The final memo MUST give a concrete trading recommendation.
+
+It is NOT acceptable to say:
+
+- “It depends”
+- “Wait and see”
+- “Monitor earnings”
+- “Consider trimming”
+
+The final answer MUST specify:
+
+| Required Item | Answer |
+|---|---|
+| Action before earnings | |
+| Exact number of shares to sell before earnings | |
+| Exact number of shares to hold | |
+| Hedge or not | |
+| If hedge, exact structure | |
+| If gap up, what to do (with % thresholds) | |
+| If gap down, what to do (with % thresholds) | |
+| What to do with 30-share vest | |
+| Max acceptable FFIV shares after vest | |
+| Target FFIV allocation | |
+
+No vague answers allowed.
+
+---
+
+## Post-Earnings Plan
+
+### If stock gaps up:
+- Sell? How many shares?
+- At what % gain?
+
+### If stock gaps down:
+- Cut or hold?
+- At what % loss?
+
+| Scenario | Action | Reason |
+|---|---|---|
+
+---
+
+## Debate Rules
+
+Agents must attack:
+
+- “Just hold and see”
+- “Company is good so hold”
+- Ignoring 30–40% concentration
+- Ignoring vest risk
+- Not quantifying downside
+- Not giving share counts
+
+Must force:
+
+- Exact share numbers
+- Exact triggers
+- Clear actions
+
+No vague answers.
+No long-term fluff.
+No narrative-only reasoning.
+
+---
+
+## Final Decision Standard
+
+A valid answer must look like:
+
+- Sell __ shares before earnings
+- Hold __ shares through earnings
+- If gap up > __%, sell __ shares
+- If gap down > __%, sell / hold with rule
+- After 5/1 vest, sell / keep __ shares
+- Target allocation: __%
+
+If missing numbers → answer is invalid.
+
+---
+
+## Default Bias
+
+Because:
+
+- Current weight >30%
+- Post-vest weight ~40%
+- Earnings move uncertain
+
+👉 Burden of proof is on HOLDING
+
+Unless strong asymmetric upside exists:
+
+👉 Default action = reduce position before earnings
+
+---
+
+## Failure Condition
+
+If the final memo says:
+
+- “wait and see”
+- “monitor earnings”
+- or gives no share count
+
+👉 treat the answer as FAILED
+
+        Core areas:
+- No fixed core areas were supplied. Infer the most important subtopics from the topic.
+
+        Named entities / targets to consider:
+- No fixed entities were supplied. Build the relevant universe yourself and explain omissions.
+
+        Hard rules:
+        1. Separate confirmed facts, primary-source claims, expert/analyst estimates, rumors, and your own assumptions.
+        2. Every important claim must include a source or be marked UNSUPPORTED.
+        3. Prefer primary sources and recent sources when the topic is time-sensitive.
+        4. Do not treat consensus narrative as fact.
+        5. Do not force agreement.
+        6. Use explicit confidence levels: High / Medium / Low / Unknown.
+        7. Identify missing data and what would be needed to resolve it.
+        8. Be adversarial, skeptical, and correction-seeking. Your goal is to find what is wrong, overstated, stale, missing, or weakly sourced. Do not balance criticism with compliments. Do not preserve claims just because they sound plausible.
+        9. Output structured Markdown.
+        10. Maintain the claim register format when possible.
+        11. When correcting another agent, quote or identify the exact claim being challenged and explain the better replacement.
+        12. If a claim is vague, force it into a testable form or reject it.
+
+        Current project files:
+        - Full transcript: research-orchestrator-output/transcript/full_debate.md
+        - Claim register: research-orchestrator-output/claims/claim_register.md
+        - Source log: research-orchestrator-output/sources/source_log.md
+
+        Role:
+        You are claude, acting as a hostile but evidence-bound reviewer of codex's research.
+
+        You are reviewing codex's research from round 1.
+
+        Your job is not to be fair in tone; it is to be fair in evidence. Be aggressive about correction.
+
+        Required behavior:
+        1. Attack unsupported claims.
+        2. Attack stale, cherry-picked, or non-primary data.
+        3. Attack vague wording that hides uncertainty.
+        4. Attack logical gaps and causal leaps.
+        5. Attack missing alternatives, competitors, substitution risks, confounders, incentives, or base rates.
+        6. Attack any ranking, recommendation, or conclusion that is not justified by evidence.
+        7. Challenge assumptions numerically where possible.
+        8. Distinguish fatal flaws from minor issues.
+        9. Propose corrected claims, not just objections.
+        10. Add or update claim-register rows.
+        11. State what evidence would change your mind.
+        12. Mark claims that should be deleted, downgraded, or rewritten.
+
+        Required output sections:
+        1. Claims that should be deleted
+        2. Claims that must be downgraded
+        3. Claims that need rewritten wording
+        4. Unsupported or weakly sourced claims
+        5. Stale or questionable evidence
+        6. Logical gaps and causal errors
+        7. Missing evidence and missing alternatives
+        8. Ranking / conclusion objections
+        9. Corrected claim table
+        10. Required follow-up research
+
+        Corrected claim table:
+        | Original Claim ID/Text | Problem | Severity | Correction or Replacement | Evidence Needed | Status |
+        |---|---|---|---|---|---|
+
+        Rules:
+        - Do not praise the other report.
+        - Do not summarize the other report except to identify a disputed claim.
+        - Do not accept a claim because it is plausible. Demand evidence.
+        - If the report uses unclear language like "likely", "strong", "large", or "material", force a measurable definition.
+
+        Other report:
+        ```markdown
+        # Initial Independent Research Memo: FFIV Earnings Event Risk
+
+## 1. Executive Thesis
+
+Primary action: **sell 40 FFIV shares tomorrow morning before earnings and hold 60 shares through the print.**
+
+This is not a call that FFIV is a bad company. It is a concentration-risk decision. A 100-share position at the user-stated weight is already ~32% of the portfolio, with ~30 more shares vesting on May 1. Holding all shares through earnings is not rational unless there is strong asymmetric upside. I do not find that.
+
+**Required trading decision**
+
+| Required Item | Answer |
+|---|---|
+| Action before earnings | Sell shares |
+| Exact number of shares to sell before earnings | **40** |
+| Exact number of shares to hold through earnings | **60** |
+| Hedge or not | **No primary hedge** |
+| If hedge, exact structure | Backup only: if refusing to sell, buy **1 May 15, 2026 $270 put** |
+| If gap up > 8% | Sell **15 more shares** |
+| If gap up > 15% | Sell **25 more shares total** after earnings |
+| If gap down > 10% | Sell **10 more shares** unless guidance is cleanly reaffirmed |
+| If gap down > 15% | Sell **20 more shares** |
+| If gap down > 20% or guide cut | Sell **30 more shares** |
+| What to do with 30-share vest | Sell all **30 vested shares** on May 1 |
+| Max acceptable FFIV shares after vest | **60 shares** |
+| Target FFIV allocation | **20% max immediately; 15% preferred target after the event** |
+
+Final classification: **Strong candidate** for pre-earnings reduction. Full-position hold: **Avoid**.
+
+## 2. Scope And Definitions
+
+This memo addresses only the **April 28, 2026 after-close earnings event** and the pre-earnings decision window.
+
+Confirmed trading-compliance assumption: user states no blackout, no pre-clearance, no insider-trading restriction. I accept that as a user assumption and do not use compliance as a reason to avoid action.
+
+Important conflict: the user stated FFIV price around **$381**, but current public sources I found show FFIV around **$297.72** on April 27, 2026. Barchart reports current price **$297.72** and MarketWatch reports the April 27 close at **$297.72**. The $381 price is therefore **unsupported and contradicted** by current public quote data. The share-count recommendation is still robust because it is based on concentration percentage, not just price. Sources: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet), [MarketWatch](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113).
+
+## 3. Research Universe / Options Considered
+
+| Action | Verdict |
+|---|---|
+| Hold all 100 | Reject |
+| Sell 10-20 | Too small relative to 32%-40% concentration |
+| Sell 25-40 | Best fit; select 40 |
+| Sell 50+ | Defensible but unnecessarily cuts upside before event |
+| Hedge with options | Backup only; IV is elevated and contracts hedge 100 shares |
+| Wait until after earnings | Reject; this ignores the event risk |
+| Do nothing | Reject |
+
+## 4. Evidence Map
+
+| Evidence Type | Finding | Source / Status | Confidence |
+|---|---|---|---|
+| Confirmed fact | F5 reports Q2 FY2026 after market close April 28, 2026 | [F5 press release](https://www.f5.com/pt_br/company/news/press-releases/f5-to-report-second-quarter-fiscal-year-2026-financial-results) | High |
+| Confirmed fact | April 27 public price around $297.72 | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet), [MarketWatch](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113) | High |
+| Market-derived | Options expected move: **8.82%**, IV **62.76%** | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | Medium |
+| Historical reaction | Last 8 Day+1 earnings moves average **8.17% absolute** | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | High |
+| Analyst estimates | Consensus rating mostly Hold; modest upside | [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/FFIV/forecast/), [StockAnalysis](https://stockanalysis.com/stocks/ffiv/forecast/) | Medium |
+| User assumption | 100 shares now, 30 vesting May 1, current weight >32% | User-supplied | Medium |
+| Contradicted claim | FFIV price ~$381 | User-supplied, contradicted by public quotes | Low |
+
+## 5. Key Facts And Sources
+
+| Metric | Finding | Interpretation |
+|---|---|---|
+| 1-day move | FFIV -1.79% on Apr. 27 vs S&P 500 +0.12% | Weak into earnings; no final-day chase |
+| 1-week move | From $314.00 Apr. 20 to $297.72 Apr. 27: about -5.2% | Recent pre-earnings pullback |
+| 1-month move | From $281.98 Mar. 27 to $297.72: about +5.6% | Still up from March |
+| 3-month move | From $270.43 Jan. 27 to $297.72: about +10.1% | Q1 beat optimism still partly embedded |
+| Analyst sentiment | Hold / modest upside targets | Not euphoric, but not washed out |
+| Options move | 8.82% expected move | Market prices meaningful event risk |
+
+Sources: [MarketWatch Apr. 27](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113), [StockAnalysis historical prices](https://stockanalysis.com/stocks/ffiv/history/), [Barchart earnings preview](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+Forced conclusion: **optimism is partly priced in.** There is no clean final-week run-up, but the post-Q1 beat setup, AI/security narrative, and analyst expectations mean a simple beat may not be enough.
+
+## 6. Main Drivers Or Causal Mechanisms
+
+The key variable is not merely EPS. It is whether F5 can prove that the Q1 strength was sustainable.
+
+| Driver | Bullish Signal | Bearish Signal |
+|---|---|---|
+| FY2026 guide credibility and product/systems momentum | Revenue above guidance, EPS above guide, FY guide maintained or raised, systems/product growth stays strong | Guide cut, product growth slows, software weakness persists, margin pressure, cyber/security incident demand drag |
+
+F5’s Q1 FY2026 release reported revenue of **$822 million**, up 7% YoY, product revenue growth of 11%, systems revenue growth of 37%, and raised FY2026 revenue-growth guidance to 5%-6%. Q2 guidance was revenue **$770M-$790M** and non-GAAP EPS **$3.34-$3.46**. Source: [F5 Q1 FY2026 release](https://www.f5.com/company/news/press-releases/earnings-q1-fy26).
+
+Forced conclusion: **stock direction is determined by guide quality and sustainability of product/systems growth, not by a headline EPS beat alone.**
+
+## 7. Counterarguments And Disconfirming Evidence
+
+“Just hold and see” fails because the market-implied move is nearly **9%** and the position is already too concentrated. Waiting is an active decision to accept avoidable event risk.
+
+“Company is good, so hold” fails because October 2025 shows FFIV can beat EPS and still fall sharply. Barchart reports the Oct. 27, 2025 earnings Day+1 move was **-7.86%** despite an EPS beat. Source: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+“Sell nothing because shares vest soon” is backwards. The vest increases exposure after the event. It strengthens the case for reducing now.
+
+## 8. Bull Case / Strongest Positive Interpretation
+
+FFIV could rally if Q2 confirms the Q1 momentum: product systems remain strong, AI/security demand is real, the company reiterates or raises FY2026 guidance, and analysts revise targets higher. Historical positive reactions can be large: Barchart reports +8.09%, +11.40%, +10.06%, and +12.99% Day+1 moves across recent earnings. Source: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+Bull case does not justify holding 100 shares. It justifies holding **some** exposure. That is why the recommendation is **hold 60**, not sell all.
+
+## 9. Bear Case / Strongest Negative Interpretation
+
+The bear case is a guidance disappointment, weaker software trend, slowing systems refresh, or renewed concern around security-incident impacts. The downside is not theoretical: recent earnings reactions include **-7.86%** and **-9.24%** Day+1 moves. Options price an expected range down to about **$271.46** from $297.72. Source: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+If the user-stated $381 position value is used, a -15% move on 100 shares is about **-$5,716**. On 130 shares, it is about **-$7,431**. That is too much single-name event exposure for a portfolio where FFIV is already above 30%.
+
+## 10. Base Case / Most Likely Interpretation
+
+Base case: FFIV produces a beat or in-line result with enough strength to avoid a collapse, but the risk/reward is not strong enough to justify a 32% pre-event weight. Expected move is roughly **8%-9%**, and analyst upside is only modest.
+
+Therefore, the correct action is to reduce exposure but keep upside participation: **sell 40, hold 60**.
+
+## 11. Key Claims Table
+
+| ID | Claim | Subject | Category | Source | Confidence | Status |
+|---|---|---|---|---|---|---|
+| C1 | F5 reports Q2 FY2026 after close on Apr. 28, 2026 | FFIV | Confirmed fact | [F5](https://www.f5.com/pt_br/company/news/press-releases/f5-to-report-second-quarter-fiscal-year-2026-financial-results) | High | Confirmed |
+| C2 | FFIV was around $297.72 on Apr. 27, 2026 | FFIV price | Confirmed fact | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet), [MarketWatch](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113) | High | Confirmed |
+| C3 | User-stated $381 price is contradicted by public quote data | FFIV price | Correction | User vs public quotes | High | Challenged |
+| C4 | Options imply an 8.82% move through May 15 | FFIV options | Market-derived | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | Medium | Confirmed |
+| C5 | Historical Day+1 earnings move averages 8.17% absolute | FFIV earnings | Market-derived | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | High | Confirmed |
+| C6 | Analyst sentiment is mostly Hold with modest upside | FFIV sentiment | Analyst estimate | [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/FFIV/forecast/), [StockAnalysis](https://stockanalysis.com/stocks/ffiv/forecast/) | Medium | Confirmed |
+| C7 | Holding 100 shares through earnings is irrational given concentration | Position risk | Assumption + inference | User weights + options data | Medium | Supported |
+| C8 | Primary action should be sell 40 shares | Trading decision | Recommendation | Inference from C4-C7 | Medium | Supported |
+
+## 12. Evidence Gaps
+
+Current option-chain detail is incomplete. I found expected move and IV, but not a reliable live put/call skew or full open-interest distribution for April 27 close.
+
+The portfolio value, cost basis, tax impact, and exact broker price are not independently verified. The $381 price should be checked against the brokerage account because it conflicts with public quotes.
+
+Employee-trading status is accepted as user-supplied. It is not independently verified.
+
+## 13. Initial Classification / Ranking
+
+| Rank | Action | Classification |
+|---|---|---|
+| 1 | Sell 40 shares, hold 60 | **Strong candidate** |
+| 2 | Sell 50 shares, hold 50 | Watchlist / acceptable if more risk-averse |
+| 3 | Sell 25 shares + buy 1 May 15 $270 put | Backup |
+| 4 | Hold all 100 | Avoid |
+| 5 | Wait until after earnings | Avoid |
+
+## 14. What Must Be Verified Next
+
+Before placing the order tomorrow morning, verify:
+
+1. Broker FFIV quote and whether the true price is near **$298** or **$381**.
+2. Tax impact of selling 40 shares.
+3. Whether May 1 vest shares can be sold immediately.
+4. Live May 15 $270 put price if using the backup hedge.
+
+## Scenario Analysis
+
+Dollar impacts below use the user-stated ~$381/share because that matches the stated portfolio exposure. If using the confirmed public quote near $297.72, multiply dollar impacts by about **0.78**.
+
+| Scenario | Probability | Stock Move | Impact: 100 shares | Impact: 130 shares |
+|---|---:|---:|---:|---:|
+| Strong beat + guide raise | 20% | +10% to +15% | +$3,811 to +$5,716 | +$4,954 to +$7,431 |
+| Small beat | 25% | +3% to +7% | +$1,143 to +$2,668 | +$1,486 to +$3,467 |
+| Neutral | 20% | -3% to +3% | -$1,143 to +$1,143 | -$1,486 to +$1,486 |
+| Miss / soft metrics | 20% | -10% to -15% | -$3,811 to -$5,716 | -$4,954 to -$7,431 |
+| Bad guide / demand concern | 15% | -20% | -$7,622 | -$9,908 |
+
+## Final Decision
+
+Sell **40 FFIV shares before earnings tomorrow morning**. Hold **60 shares** through the event. Do **not** use options as the primary hedge because the cleaner risk reduction is selling stock, and listed options hedge in 100-share blocks.
+
+After earnings, follow the rules mechanically. Sell more into a large gap up. Cut more on a large gap down, especially if guidance is weak. On May 1, sell the full **30-share vest**. Max acceptable FFIV shares after vest: **60**. Target allocation: **20% max immediately, 15% preferred after the event.**
+
+--- STDERR ---
+
+Reading prompt from stdin...
+OpenAI Codex v0.125.0 (research preview)
+--------
+workdir: /mnt/c/Users/hyc97/workspace/Ecclesia/FFIV_earning
+model: gpt-5.5
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: xhigh
+reasoning summaries: none
+session id: 019dd2ab-f7b1-7d60-bf0f-c49bc7a8fef7
+--------
+user
+        You are participating in a structured multi-agent research process.
+
+        Topic:
+        # Research Topic: FFIV Earnings Event Risk and Pre-Earnings Position Decision
+
+## Objective
+
+Evaluate whether the investor should reduce, hold, hedge, or do nothing with the current FFIV position **before the upcoming earnings release**.
+
+This is an **event-driven trading decision**, not a long-term investment analysis.
+
+The goal is to determine:
+
+👉 What EXACT action should be taken **tomorrow morning before earnings**
+
+---
+
+## Current Situation
+
+Time context:
+
+- Current time: April 27, 2026 (evening)
+- Earnings: April 28, 2026 (after market close)
+- Decision window: next trading day (pre-earnings)
+
+Current position:
+
+- FFIV shares: 100
+- Price: ~$381
+- Position value: ~$38,108
+- Portfolio weight: ~32%+
+
+Upcoming event:
+
+- Vesting: ~30 shares on May 1, 2026
+- Post-vest shares: ~130
+- Post-vest exposure: ~$49K+
+- Potential portfolio weight: ~40%+
+
+---
+
+## Employee Trading Assumption
+
+The investor is a lower-level FFIV employee and states:
+
+- No insider trading restrictions
+- No blackout limitations
+- No pre-clearance requirements
+
+For this analysis:
+
+- Assume trading is allowed
+- Do NOT use compliance as a reason to avoid giving a recommendation
+- Mention compliance briefly if needed, but it must NOT affect the decision
+
+👉 Focus on financial and risk decision only
+
+---
+
+## Core Question
+
+What should the investor do **before earnings tomorrow**?
+
+The agents must choose ONE primary action:
+
+- Sell some shares
+- Sell a large portion
+- Hold full position
+- Wait until after earnings
+- Hedge using options
+- Do nothing (must justify)
+
+---
+
+## Required Research Areas
+
+### 1. Current Price Setup
+
+Analyze:
+
+- 1-day / 1-week / 1-month / 3-month movement
+- Pre-earnings run-up or not
+- Relative strength vs market
+- Market sentiment
+
+| Metric | Finding | Interpretation |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**Is optimism already priced in?**
+
+---
+
+### 2. Historical Earnings Reaction
+
+Analyze last 6–8 earnings:
+
+| Date | EPS | Revenue | Guidance | Next-Day Move | Interpretation |
+|---|---|---|---|---|---|
+
+👉 Forced conclusion:
+
+- Typical move size:
+  - Large (>10%)
+  - Medium (5–10%)
+  - Small (<5%)
+
+---
+
+### 3. Options Market (Critical)
+
+Analyze:
+
+- ATM straddle implied move
+- IV level
+- Put/call skew
+- Volume positioning
+
+| Indicator | Finding | Interpretation |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**Market-implied move = X%**
+
+---
+
+### 4. Expectations vs Risk
+
+Analyze:
+
+- Analyst expectations
+- Upgrades/downgrades
+- Expectation level
+
+| Item | Conclusion | Risk |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**High / Neutral / Low expectations**
+
+---
+
+### 5. Key Earnings Driver
+
+Identify ONE key variable:
+
+| Driver | Bullish Signal | Bearish Signal |
+|---|---|---|
+
+👉 Forced conclusion:
+
+**What determines stock direction?**
+
+---
+
+### 6. Scenario Analysis (Must Quantify)
+
+| Scenario | Probability | Stock Move | Impact (100 shares) | Impact (130 shares) |
+|---|---|---|---|---|
+| Strong beat | | | | |
+| Small beat | | | | |
+| Neutral | | | | |
+| Miss | | | | |
+| Bad guide | | | | |
+
+Must include:
+
+- -10%
+- -15%
+- -20%
+
+---
+
+### 7. Concentration + Vest Risk (Core)
+
+| Case | Shares | Value | Weight |
+|---|---|---|---|
+| Current | 100 | ~$38K | ~32% |
+| Post-vest | 130 | ~$49K | ~40% |
+
+👉 Forced conclusion:
+
+**Is holding 100 shares through earnings rational?**
+
+---
+
+### 8. Pre-Earnings Action Options
+
+| Action | Pros | Cons | Best Case | Worst Case |
+|---|---|---|---|---|
+| Hold all | | | | |
+| Sell 10–20 | | | | |
+| Sell 25–40 | | | | |
+| Sell 50+ | | | | |
+| Hedge (puts) | | | | |
+| Wait after earnings | | | | |
+
+👉 Must select:
+
+- Primary action
+- Backup action
+
+---
+
+## Mandatory Trading Recommendation
+
+The final memo MUST give a concrete trading recommendation.
+
+It is NOT acceptable to say:
+
+- “It depends”
+- “Wait and see”
+- “Monitor earnings”
+- “Consider trimming”
+
+The final answer MUST specify:
+
+| Required Item | Answer |
+|---|---|
+| Action before earnings | |
+| Exact number of shares to sell before earnings | |
+| Exact number of shares to hold | |
+| Hedge or not | |
+| If hedge, exact structure | |
+| If gap up, what to do (with % thresholds) | |
+| If gap down, what to do (with % thresholds) | |
+| What to do with 30-share vest | |
+| Max acceptable FFIV shares after vest | |
+| Target FFIV allocation | |
+
+No vague answers allowed.
+
+---
+
+## Post-Earnings Plan
+
+### If stock gaps up:
+- Sell? How many shares?
+- At what % gain?
+
+### If stock gaps down:
+- Cut or hold?
+- At what % loss?
+
+| Scenario | Action | Reason |
+|---|---|---|
+
+---
+
+## Debate Rules
+
+Agents must attack:
+
+- “Just hold and see”
+- “Company is good so hold”
+- Ignoring 30–40% concentration
+- Ignoring vest risk
+- Not quantifying downside
+- Not giving share counts
+
+Must force:
+
+- Exact share numbers
+- Exact triggers
+- Clear actions
+
+No vague answers.
+No long-term fluff.
+No narrative-only reasoning.
+
+---
+
+## Final Decision Standard
+
+A valid answer must look like:
+
+- Sell __ shares before earnings
+- Hold __ shares through earnings
+- If gap up > __%, sell __ shares
+- If gap down > __%, sell / hold with rule
+- After 5/1 vest, sell / keep __ shares
+- Target allocation: __%
+
+If missing numbers → answer is invalid.
+
+---
+
+## Default Bias
+
+Because:
+
+- Current weight >30%
+- Post-vest weight ~40%
+- Earnings move uncertain
+
+👉 Burden of proof is on HOLDING
+
+Unless strong asymmetric upside exists:
+
+👉 Default action = reduce position before earnings
+
+---
+
+## Failure Condition
+
+If the final memo says:
+
+- “wait and see”
+- “monitor earnings”
+- or gives no share count
+
+👉 treat the answer as FAILED
+
+        Core areas:
+- No fixed core areas were supplied. Infer the most important subtopics from the topic.
+
+        Named entities / targets to consider:
+- No fixed entities were supplied. Build the relevant universe yourself and explain omissions.
+
+        Hard rules:
+        1. Separate confirmed facts, primary-source claims, expert/analyst estimates, rumors, and your own assumptions.
+        2. Every important claim must include a source or be marked UNSUPPORTED.
+        3. Prefer primary sources and recent sources when the topic is time-sensitive.
+        4. Do not treat consensus narrative as fact.
+        5. Do not force agreement.
+        6. Use explicit confidence levels: High / Medium / Low / Unknown.
+        7. Identify missing data and what would be needed to resolve it.
+        8. Be adversarial, skeptical, and correction-seeking. Your goal is to find what is wrong, overstated, stale, missing, or weakly sourced. Do not balance criticism with compliments. Do not preserve claims just because they sound plausible.
+        9. Output structured Markdown.
+        10. Maintain the claim register format when possible.
+        11. When correcting another agent, quote or identify the exact claim being challenged and explain the better replacement.
+        12. If a claim is vague, force it into a testable form or reject it.
+
+        Current project files:
+        - Full transcript: research-orchestrator-output/transcript/full_debate.md
+        - Claim register: research-orchestrator-output/claims/claim_register.md
+        - Source log: research-orchestrator-output/sources/source_log.md
+
+        Role:
+        You are codex, acting as an evidence-disciplined researcher looking for the strongest supportable thesis.
+
+        Task:
+        Produce an initial independent research memo on the topic.
+
+        Required output sections:
+        1. Executive thesis
+2. Scope and definitions
+3. Research universe / options considered
+4. Evidence map
+5. Key facts and sources
+6. Main drivers or causal mechanisms
+7. Counterarguments and disconfirming evidence
+8. Bull case / strongest positive interpretation
+9. Bear case / strongest negative interpretation
+10. Base case / most likely interpretation
+11. Key claims table
+12. Evidence gaps
+13. Initial classification / ranking
+14. What must be verified next
+
+        Include a final classification using these labels:
+        Strong candidate / Watchlist / Avoid / Insufficient evidence
+
+        Key claims table format:
+        | ID | Claim | Subject | Category | Source | Confidence | Status |
+        |---|---|---|---|---|---|---|
+
+        Standards:
+        - Be direct.
+        - Do not write generic background unless it affects the conclusion.
+        - Surface contradictions and uncertainty instead of smoothing them over.
+        - Use concise but specific evidence.
+
+codex
+I’m going to verify the live setup first because this is explicitly an event-risk call and stale price/options data would break the recommendation. I’ll keep confirmed market data, analyst estimates, and my assumptions separated.
+web search: 
+web search: FFIV earnings April 28 2026 after market close earnings date F5 Q2 2026
+web search: 
+web search: finance: FFIV
+web search: 
+web search: finance: FFIV
+web search: 
+web search: finance: AAPL
+web search: 
+web search: FFIV historical data April 27 2026 close 297.72
+web search: 
+web search: FFIV April 20 2026 close stock price 1 week before earnings
+web search: 
+web search: FFIV January 27 2026 close after earnings 2026 01 27 stock price
+web search: 
+web search: FFIV analyst ratings April 2026 price target consensus Hold MarketBeat
+web search: 
+web search: site:investors.f5.com Q1 fiscal 2026 F5 revenue guidance 2026 EPS revenue growth January 27 2026
+web search: 
+web search: site:f5.com F5 to report second quarter fiscal year 2026 financial results April 28 2026
+web search: 
+web search: FFIV historical earnings reactions next day move last 8 earnings
+web search: 
+web search: F5 Inc stock Jan 28 2026 close FFIV up earnings MarketWatch 2026
+web search: 
+web search: https://stockanalysis.com/stocks/ffiv/history/
+web search: 
+web search: 
+web search: 
+web search: 
+web search: 
+web search: site:stockanalysis.com/stocks/ffiv/history "Jan 28, 2026" "FFIV" "Close"
+web search: 
+web search: stooq FFIV historical quotes 2025 2026 CSV
+web search: 
+web search: https://stockinvest.us/earnings-report/FFIV
+web search: 
+web search: stockinvest FFIV earnings Apr 28 2025 price on release Jan 28 2025 Oct 28 2024 Jul 29 2024
+web search: 
+web search: https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet
+web search: 
+web search: 'options pricing' in https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet
+web search: 
+web search: FFIV options chain April 28 2026 put call ratio implied volatility skew
+codex
+# Initial Independent Research Memo: FFIV Earnings Event Risk
+
+## 1. Executive Thesis
+
+Primary action: **sell 40 FFIV shares tomorrow morning before earnings and hold 60 shares through the print.**
+
+This is not a call that FFIV is a bad company. It is a concentration-risk decision. A 100-share position at the user-stated weight is already ~32% of the portfolio, with ~30 more shares vesting on May 1. Holding all shares through earnings is not rational unless there is strong asymmetric upside. I do not find that.
+
+**Required trading decision**
+
+| Required Item | Answer |
+|---|---|
+| Action before earnings | Sell shares |
+| Exact number of shares to sell before earnings | **40** |
+| Exact number of shares to hold through earnings | **60** |
+| Hedge or not | **No primary hedge** |
+| If hedge, exact structure | Backup only: if refusing to sell, buy **1 May 15, 2026 $270 put** |
+| If gap up > 8% | Sell **15 more shares** |
+| If gap up > 15% | Sell **25 more shares total** after earnings |
+| If gap down > 10% | Sell **10 more shares** unless guidance is cleanly reaffirmed |
+| If gap down > 15% | Sell **20 more shares** |
+| If gap down > 20% or guide cut | Sell **30 more shares** |
+| What to do with 30-share vest | Sell all **30 vested shares** on May 1 |
+| Max acceptable FFIV shares after vest | **60 shares** |
+| Target FFIV allocation | **20% max immediately; 15% preferred target after the event** |
+
+Final classification: **Strong candidate** for pre-earnings reduction. Full-position hold: **Avoid**.
+
+## 2. Scope And Definitions
+
+This memo addresses only the **April 28, 2026 after-close earnings event** and the pre-earnings decision window.
+
+Confirmed trading-compliance assumption: user states no blackout, no pre-clearance, no insider-trading restriction. I accept that as a user assumption and do not use compliance as a reason to avoid action.
+
+Important conflict: the user stated FFIV price around **$381**, but current public sources I found show FFIV around **$297.72** on April 27, 2026. Barchart reports current price **$297.72** and MarketWatch reports the April 27 close at **$297.72**. The $381 price is therefore **unsupported and contradicted** by current public quote data. The share-count recommendation is still robust because it is based on concentration percentage, not just price. Sources: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet), [MarketWatch](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113).
+
+## 3. Research Universe / Options Considered
+
+| Action | Verdict |
+|---|---|
+| Hold all 100 | Reject |
+| Sell 10-20 | Too small relative to 32%-40% concentration |
+| Sell 25-40 | Best fit; select 40 |
+| Sell 50+ | Defensible but unnecessarily cuts upside before event |
+| Hedge with options | Backup only; IV is elevated and contracts hedge 100 shares |
+| Wait until after earnings | Reject; this ignores the event risk |
+| Do nothing | Reject |
+
+## 4. Evidence Map
+
+| Evidence Type | Finding | Source / Status | Confidence |
+|---|---|---|---|
+| Confirmed fact | F5 reports Q2 FY2026 after market close April 28, 2026 | [F5 press release](https://www.f5.com/pt_br/company/news/press-releases/f5-to-report-second-quarter-fiscal-year-2026-financial-results) | High |
+| Confirmed fact | April 27 public price around $297.72 | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet), [MarketWatch](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113) | High |
+| Market-derived | Options expected move: **8.82%**, IV **62.76%** | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | Medium |
+| Historical reaction | Last 8 Day+1 earnings moves average **8.17% absolute** | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | High |
+| Analyst estimates | Consensus rating mostly Hold; modest upside | [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/FFIV/forecast/), [StockAnalysis](https://stockanalysis.com/stocks/ffiv/forecast/) | Medium |
+| User assumption | 100 shares now, 30 vesting May 1, current weight >32% | User-supplied | Medium |
+| Contradicted claim | FFIV price ~$381 | User-supplied, contradicted by public quotes | Low |
+
+## 5. Key Facts And Sources
+
+| Metric | Finding | Interpretation |
+|---|---|---|
+| 1-day move | FFIV -1.79% on Apr. 27 vs S&P 500 +0.12% | Weak into earnings; no final-day chase |
+| 1-week move | From $314.00 Apr. 20 to $297.72 Apr. 27: about -5.2% | Recent pre-earnings pullback |
+| 1-month move | From $281.98 Mar. 27 to $297.72: about +5.6% | Still up from March |
+| 3-month move | From $270.43 Jan. 27 to $297.72: about +10.1% | Q1 beat optimism still partly embedded |
+| Analyst sentiment | Hold / modest upside targets | Not euphoric, but not washed out |
+| Options move | 8.82% expected move | Market prices meaningful event risk |
+
+Sources: [MarketWatch Apr. 27](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113), [StockAnalysis historical prices](https://stockanalysis.com/stocks/ffiv/history/), [Barchart earnings preview](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+Forced conclusion: **optimism is partly priced in.** There is no clean final-week run-up, but the post-Q1 beat setup, AI/security narrative, and analyst expectations mean a simple beat may not be enough.
+
+## 6. Main Drivers Or Causal Mechanisms
+
+The key variable is not merely EPS. It is whether F5 can prove that the Q1 strength was sustainable.
+
+| Driver | Bullish Signal | Bearish Signal |
+|---|---|---|
+| FY2026 guide credibility and product/systems momentum | Revenue above guidance, EPS above guide, FY guide maintained or raised, systems/product growth stays strong | Guide cut, product growth slows, software weakness persists, margin pressure, cyber/security incident demand drag |
+
+F5’s Q1 FY2026 release reported revenue of **$822 million**, up 7% YoY, product revenue growth of 11%, systems revenue growth of 37%, and raised FY2026 revenue-growth guidance to 5%-6%. Q2 guidance was revenue **$770M-$790M** and non-GAAP EPS **$3.34-$3.46**. Source: [F5 Q1 FY2026 release](https://www.f5.com/company/news/press-releases/earnings-q1-fy26).
+
+Forced conclusion: **stock direction is determined by guide quality and sustainability of product/systems growth, not by a headline EPS beat alone.**
+
+## 7. Counterarguments And Disconfirming Evidence
+
+“Just hold and see” fails because the market-implied move is nearly **9%** and the position is already too concentrated. Waiting is an active decision to accept avoidable event risk.
+
+“Company is good, so hold” fails because October 2025 shows FFIV can beat EPS and still fall sharply. Barchart reports the Oct. 27, 2025 earnings Day+1 move was **-7.86%** despite an EPS beat. Source: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+“Sell nothing because shares vest soon” is backwards. The vest increases exposure after the event. It strengthens the case for reducing now.
+
+## 8. Bull Case / Strongest Positive Interpretation
+
+FFIV could rally if Q2 confirms the Q1 momentum: product systems remain strong, AI/security demand is real, the company reiterates or raises FY2026 guidance, and analysts revise targets higher. Historical positive reactions can be large: Barchart reports +8.09%, +11.40%, +10.06%, and +12.99% Day+1 moves across recent earnings. Source: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+Bull case does not justify holding 100 shares. It justifies holding **some** exposure. That is why the recommendation is **hold 60**, not sell all.
+
+## 9. Bear Case / Strongest Negative Interpretation
+
+The bear case is a guidance disappointment, weaker software trend, slowing systems refresh, or renewed concern around security-incident impacts. The downside is not theoretical: recent earnings reactions include **-7.86%** and **-9.24%** Day+1 moves. Options price an expected range down to about **$271.46** from $297.72. Source: [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet).
+
+If the user-stated $381 position value is used, a -15% move on 100 shares is about **-$5,716**. On 130 shares, it is about **-$7,431**. That is too much single-name event exposure for a portfolio where FFIV is already above 30%.
+
+## 10. Base Case / Most Likely Interpretation
+
+Base case: FFIV produces a beat or in-line result with enough strength to avoid a collapse, but the risk/reward is not strong enough to justify a 32% pre-event weight. Expected move is roughly **8%-9%**, and analyst upside is only modest.
+
+Therefore, the correct action is to reduce exposure but keep upside participation: **sell 40, hold 60**.
+
+## 11. Key Claims Table
+
+| ID | Claim | Subject | Category | Source | Confidence | Status |
+|---|---|---|---|---|---|---|
+| C1 | F5 reports Q2 FY2026 after close on Apr. 28, 2026 | FFIV | Confirmed fact | [F5](https://www.f5.com/pt_br/company/news/press-releases/f5-to-report-second-quarter-fiscal-year-2026-financial-results) | High | Confirmed |
+| C2 | FFIV was around $297.72 on Apr. 27, 2026 | FFIV price | Confirmed fact | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet), [MarketWatch](https://www.marketwatch.com/data-news/f5-inc-stock-underperforms-monday-when-compared-to-competitors-445b73cf-cfabded4d113) | High | Confirmed |
+| C3 | User-stated $381 price is contradicted by public quote data | FFIV price | Correction | User vs public quotes | High | Challenged |
+| C4 | Options imply an 8.82% move through May 15 | FFIV options | Market-derived | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | Medium | Confirmed |
+| C5 | Historical Day+1 earnings move averages 8.17% absolute | FFIV earnings | Market-derived | [Barchart](https://www.barchart.com/story/news/1545022/f5-s-cloud-transition-timeline-gets-its-clearest-test-yet) | High | Confirmed |
+| C6 | Analyst sentiment is mostly Hold with modest upside | FFIV sentiment | Analyst estimate | [MarketBeat](https://www.marketbeat.com/stocks/NASDAQ/FFIV/forecast/), [StockAnalysis](https://stockanalysis.com/stocks/ffiv/forecast/) | Medium | Confirmed |
+| C7 | Holding 100 shares through earnings is irrational given concentration | Position risk | Assumption + inference | User weights + options data | Medium | Supported |
+| C8 | Primary action should be sell 40 shares | Trading decision | Recommendation | Inference from C4-C7 | Medium | Supported |
+
+## 12. Evidence Gaps
+
+Current option-chain detail is incomplete. I found expected move and IV, but not a reliable live put/call skew or full open-interest distribution for April 27 close.
+
+The portfolio value, cost basis, tax impact, and exact broker price are not independently verified. The $381 price should be checked against the brokerage account because it conflicts with public quotes.
+
+Employee-trading status is accepted as user-supplied. It is not independently verified.
+
+## 13. Initial Classification / Ranking
+
+| Rank | Action | Classification |
+|---|---|---|
+| 1 | Sell 40 shares, hold 60 | **Strong candidate** |
+| 2 | Sell 50 shares, hold 50 | Watchlist / acceptable if more risk-averse |
+| 3 | Sell 25 shares + buy 1 May 15 $270 put | Backup |
+| 4 | Hold all 100 | Avoid |
+| 5 | Wait until after earnings | Avoid |
+
+## 14. What Must Be Verified Next
+
+Before placing the order tomorrow morning, verify:
+
+1. Broker FFIV quote and whether the true price is near **$298** or **$381**.
+2. Tax impact of selling 40 shares.
+3. Whether May 1 vest shares can be sold immediately.
+4. Live May 15 $270 put price if using the backup hedge.
+
+## Scenario Analysis
+
+Dollar impacts below use the user-stated ~$381/share because that matches the stated portfolio exposure. If using the confirmed public quote near $297.72, multiply dollar impacts by about **0.78**.
+
+| Scenario | Probability | Stock Move | Impact: 100 shares | Impact: 130 shares |
+|---|---:|---:|---:|---:|
+| Strong beat + guide raise | 20% | +10% to +15% | +$3,811 to +$5,716 | +$4,954 to +$7,431 |
+| Small beat | 25% | +3% to +7% | +$1,143 to +$2,668 | +$1,486 to +$3,467 |
+| Neutral | 20% | -3% to +3% | -$1,143 to +$1,143 | -$1,486 to +$1,486 |
+| Miss / soft metrics | 20% | -10% to -15% | -$3,811 to -$5,716 | -$4,954 to -$7,431 |
+| Bad guide / demand concern | 15% | -20% | -$7,622 | -$9,908 |
+
+## Final Decision
+
+Sell **40 FFIV shares before earnings tomorrow morning**. Hold **60 shares** through the event. Do **not** use options as the primary hedge because the cleaner risk reduction is selling stock, and listed options hedge in 100-share blocks.
+
+After earnings, follow the rules mechanically. Sell more into a large gap up. Cut more on a large gap down, especially if guidance is weak. On May 1, sell the full **30-share vest**. Max acceptable FFIV shares after vest: **60**. Target allocation: **20% max immediately, 15% preferred after the event.**
+2026-04-28T06:04:28.423281Z ERROR codex_core::session: failed to record rollout items: thread 019dd2ab-f7b1-7d60-bf0f-c49bc7a8fef7 not found
+tokens used
+112,530
+        ```

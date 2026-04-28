@@ -1,0 +1,5 @@
+(Note: write permission to `claim_register.md` was not granted, so CDR-17 through CDR-25 above are proposed rows for the next register update — the round-2 revisions remain captured in this response.)
+
+---
+
+**Closing**: The Codex critique correctly forced me to separate **structural bear arguments** (CPU equities trade as AI capex beta; merchant x86 faces real captive-ARM substitution at hyperscalers; OEM/ODM AI-server economics are margin-thin where confirmed) from **bear quantifications I had no source for** (3–7% BOM, sub-20% EPYC growth, Sierra Forest mix). The structural arguments survive at Medium confidence; the quantifications are withdrawn. The most material verdict change is **Intel: Avoid → Tactical Watchlist (bear bias)** on the strength of S-02 and S-19, and **Arm: Avoid → Verdict deferred** because I cannot defend the valuation claim without a model.
